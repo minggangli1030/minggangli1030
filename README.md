@@ -19,7 +19,7 @@
   – Japanese mystery novels (Murakami, Higashino) 📚  
 
 📫 Reach me at [minggangli@berkeley.edu](mailto:minggangli@berkeley.edu)  
-🔭 Check out my CV [here](https://minggangli.github.io/images/CV_Minggang_Li.pdf)  
+🔭 Check out my CV [here](https://minggangli1030.github.io/images/CV_Minggang_Li.pdf)   
 
 <!--
 **minggangli1030/minggangli1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
