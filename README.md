@@ -6,7 +6,7 @@ Mathematics and Statistics major at **UC Berkeley**, interested in software engi
 - **Visa:** Built backend services and Kafka pipelines for fraud scoring, reducing analytical evaluation and query latency by **90%**.
 - **[Gilead Sciences](https://github.com/minggangli1030/gilead-nlp-pipeline):** Built document-processing and semantic-retrieval workflows for **852 reports**; improved sentiment-scoring RMSE from **0.80 to 0.66**.
 - **[Berkeley Artificial Intelligence Research (BAIR) Lab](https://github.com/minggangli1030/bair-semantic-evaluation):** Contributed to speech and semantic ML pipelines with interpretable features and evaluation tooling.
-- **[Berkeley Haas](https://github.com/minggangli1030/haas-hai-research):** Built planning simulations and full-stack tools for human–AI interaction research under Professor Wichinpong “Park” Sinchaisri at BOBALAB.
+- **[Berkeley Haas](https://github.com/minggangli1030/haas-hai-research):** Built planning simulations and full-stack tools for human–AI interaction research at BOBALAB.
 
 **Skills:** C/C++, Python, Java, SQL, PyTorch, distributed systems, operating systems, and computer architecture.
 
