@@ -9,5 +9,3 @@ Mathematics and Statistics major at **UC Berkeley**, interested in software engi
 - **[Berkeley Haas](https://github.com/minggangli1030/haas-hai-research):** Built planning simulations and full-stack tools for human–AI interaction research at BOBALAB.
 
 **Skills:** C/C++, Python, Java, SQL, PyTorch, distributed systems, operating systems, and computer architecture.
-
-Open to software engineering and ML engineering opportunities.
